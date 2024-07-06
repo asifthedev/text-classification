@@ -1,1 +1,2 @@
 transformers
+google-api-python-client

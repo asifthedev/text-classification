@@ -1,2 +1,1 @@
-transformers
-google-api-python-client
+transformers==4.42.3
